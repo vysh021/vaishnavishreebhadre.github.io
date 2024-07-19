@@ -393,8 +393,8 @@ mark,
     content: "\2014\00A0"; }
 
 .img-fluid {
-  max-width: 55%;
-  height: 140%; }
+  max-width: 95%;
+  height: 111%; }
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -3516,7 +3516,7 @@ input[type="button"].btn-block {
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
   line-height: 4;
-  background-color: blue;
+  background-color: #7b1113;
   border: 1px solid transparent;
   border-radius: 0.25rem; }
   .navbar-toggler:hover, .navbar-toggler:focus {
